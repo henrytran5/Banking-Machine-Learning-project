@@ -1,0 +1,2 @@
+# Banking-Machine-Learning-project
+●Banking dataset using Machine Learning for analyzing as summary on attributes, find outliers with Anomaly Detection, missing values, removing duplicate values, find histogram, line charts between attributes to compare, evaluate, and understand customer ‘s purposes, predicting on Dataset for outcome target to make decisions to customers for marketing, advertising loan, checking bad or good credit.
